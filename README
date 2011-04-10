@@ -1,0 +1,7 @@
+This will be an attempt at integrating some lastfm functionality into beets, such as tagging, playlist generation, etc
+
+
+
+Resources:
+http://code.google.com/p/lastfmtagextractor - last.fm tagger written in python
+http://code.google.com/p/pylast/ - last.fm bindings
